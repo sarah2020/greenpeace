@@ -95,8 +95,19 @@ ul {
     	</div>
 
 		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-		<script type="text/javascript" src='questions.json'></script>
+		
 		<script type='text/javascript' src='jsquiz.js'></script>
+		<script>
+		var foo = function() {
+  alert("Hello World");
+};
+
+// and
+
+function foo() {
+  alert("Hello World");
+}
+		</script>
   <script>
   (function() {
   var questions = [{
