@@ -15,7 +15,7 @@
         </button>
         <div id="spin" class="circle2" onclick="toggleClass()"> +</div>
         <form class="login" name="login-form" action="" onsubmit="return validateForm()">
-            <h2>Login</h2>
+            <h3>Login</h3>
             <div class="input-container" onkeydown="this.className += ' displayed'">
                 <label class="hidden">Username</label>
                 <input type="text" placeholder="Username" name="usr1" required />
