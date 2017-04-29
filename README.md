@@ -8,11 +8,8 @@
     text-decoration:none}
 
 .social {
-  position: absolute;
-  width: 100%;
-  top: 50%;
+  margin: 15px 0;
   text-align: center;
-  transform: translateY(-50%);
 }
 
 .social a {
