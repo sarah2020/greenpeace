@@ -25,7 +25,7 @@
   line-height: 59px;
   transition: .5s;
   color: #D7D0BE;
-  margin: 15px;
+  margin: 5px;
   font-size: 70px;
 }
 
