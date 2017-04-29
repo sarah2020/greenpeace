@@ -22,7 +22,7 @@
   border-radius: 50%;
   border: 2px dashed white;
   background-clip: content-box;
-  padding: 10px;
+  line-height: 59px;
   transition: .5s;
   color: #D7D0BE;
   margin: 15px;
@@ -45,20 +45,8 @@
   transform: translateX(10px) rotate(360deg);
 }
 
-.social a.google-plus {
-  background-color: tomato;
-  color: white;
-}
-
-.social a.twitter {
-  background-color: #00ACEE;
-  color: white;
-}
-
-.social a.facebook {
-  background-color: #3B5998;
-  color: white;
-}
+.social img{
+border-radius: 50%}
 
 </style>
 </head>
