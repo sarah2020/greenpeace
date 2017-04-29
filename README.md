@@ -19,7 +19,7 @@
   border-radius: 50%;
   border: 2px dashed white;
   background-clip: content-box;
-  line-height: 59px;
+  line-height: 50px;
   transition: .5s;
   color: #D7D0BE;
   margin: 5px;
